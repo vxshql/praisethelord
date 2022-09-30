@@ -8,7 +8,7 @@ If you are coming from our main GBA emulator page, this is a great way to link t
 Once deployed, make sure the site is live by visiting index.html. In this case, our link is https://cattn.github.io/gba-host/index.html, but replace `cattn` with your username, and `gba-host` with the repo name, if changed. 
 
 ## Link to the roms!
-If you saw a page load, good job! Everything is successful so far. Now you can start linking. Following instructions from [here](https://github.com/cattn/gba/docs/UltimateGuide.md) link the games. Make sure to link properly, links from here are Case Sensitive! For example: https://cattn.github.io/gba-host/nes-alt/Mega_Man_2.nes.zip is the proper way to link Mega Man 2. Notice how the `M`'s are capitalized, and the file extension is also included (`.nes` is NOT the file extension in this case. It is `.zip` Remember to look at the entire file name and path.). 
+If you saw a page load, good job! Everything is successful so far. Now you can start linking. Following instructions from [here](https://github.com/Cattn/gba/blob/gh-pages/emulatorjs/docs/UltimateGuide.md) link the games. Make sure to link properly, links from here are Case Sensitive! For example: https://cattn.github.io/gba-host/nes-alt/Mega_Man_2.nes.zip is the proper way to link Mega Man 2. Notice how the `M`'s are capitalized, and the file extension is also included (`.nes` is NOT the file extension in this case. It is `.zip` Remember to look at the entire file name and path.). 
 
 # Notes!
 Please note that this may take a long time to deploy. Like a really long time. GBA games alone make deployment 25 mins, and this include more consoles. 
