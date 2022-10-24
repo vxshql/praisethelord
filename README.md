@@ -1,8 +1,15 @@
+# Quick Deploy Options!
+[<img src="https://www.netlify.com/img/deploy/button.svg">](https://app.netlify.com/start/deploy?repository=https://github.com/Cattn/gba-host)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cattn/gba-host)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Cattn/gba-host)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/Cattn/gba-host)
+
+
 # GBA-Host!
 This is a repository that is a backup of all of the Roms on the main GBA project. This currently includes: NES, SNES, GBA, and Sega Genesis (Mega Drive). 
 
 # Creating a Fork!
-If you are coming from our main GBA emulator page, this is a great way to link to the roms if you don't want to do much work. Assuming you just want to host from here, make sure you deploy this Repo with Github Pages. It should do this automatically, but check the `Actions` tab in the repository to check and see if it has ran or is running. You can also ensure it is going to be built by going to Settings --> Pages --> Set Up GitHub Pages. 
+If you are coming from our main GBA emulator page, this is a great way to link to the roms if you don't want to do much work. Assuming you just want to host from here, make sure you deploy this Repo with Github Pages. It should do this automatically, but check the `Actions` tab in the repository to check and see if it has ran or is running. You can also ensure it is going to be built by going to Settings --> Pages --> GitHub Pages. From here make sure the "Source" is set to `Deploy from a branch` and that you select `main` under "Branch" (or the branch you want). The folder should say `/ (root)`. If it looks good, ensure you press save.
 
 ## Once Deployed!
 Once deployed, make sure the site is live by visiting index.html. In this case, our link is https://cattn.github.io/gba-host/index.html, but replace `cattn` with your username, and `gba-host` with the repo name, if changed. 
